@@ -1,0 +1,6 @@
+
+# Ignore the frames directory and all its contents
+frames/
+
+# Ignore the generated video file
+output.avi
